@@ -1,10 +1,5 @@
-# Copyright 2020, Georgia Tech Research Corporation    
-# Atlanta, Georgia 30332-0415     
-# All Rights Reserved  
-
-# ML4T_2020 Summer 
-Course website: http://lucylabs.gatech.edu/ml4t/
-
-Information on using the autograder on buffet0x servers: http://lucylabs.gatech.edu/ml4t/ml4t-software-setup/
-
-
+In this project, I compare a rule-based trading method
+with a learning model, both using the same set of indicators over
+a fixed time period. The main goal is to understand how indicators
+combine to guide decisions, how a learning model interprets the
+same signals, and how trading costs shape overall behavior.
