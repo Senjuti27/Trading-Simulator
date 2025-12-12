@@ -55,7 +55,7 @@ def compute_portvals(
     # this is the function the autograder will call to test your code  		  	   		 	 	 		  		  		    	 		 		   		 		  
     # NOTE: orders_file may be a string, or it may be a file object. Your  		  	   		 	 	 		  		  		    	 		 		   		 		  
     # code should work correctly with either input  		  	   		 	 	 		  		  		    	 		 		   		 		  
-    
+
 
     orders = pd.read_csv(orders_file,
                          index_col= 'Date',
